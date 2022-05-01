@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  color: wheat;
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 57, 9, 0.7235811805190826) 100%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  color: wheat;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 57, 9, 0.7235811805190826) 100%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.menu {
+  display: flex;
+  gap: 1em;
+  font-size: 18px;
+}
+.menu li {
+  padding: 5px 14px;
+}
+.container {
+  color: wheat;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.img {
+  width: 420px;
+  height: 300px;
+}
+.kinds {
+  color: wheat;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.urun-container {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.kahve {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
+p {
+  text-align: justify;
+}
+.hak {
+  padding-left: 15%;
+  padding-right: 15%;
+}
