@@ -6,25 +6,29 @@ import Todo from "./components/Todo";
 import FilterButton from "./components/FilterButton";
 
 const App = (props) => {
+  //Todoları tutmak ve değiştirmek için -> useState
   const [todo, setTodo] = useState(props.todos);
 
+  //Todo Eklemek için addTodo ->
   const addTodo = (name) => {
     const newTodo = { id: "todo-" + nanoid(), name: name, completed: false };
     setTodo([...todo, newTodo]);
-    console.log(newTodo);
   };
+
+  //Todo Silmek için deleteTodo ->
   const deleteTodo = (id) => {
     const remainingTodos = todo.filter((todo) => id !== todo.id);
     setTodo(remainingTodos);
-    console.log(id);
   };
 
+  //Sadece tamamlanmış Todo'ların hepsini silmek için ->
   const deleteAllTodo = (id) => {
     const clearCompleted = todo.filter(
       (todo) => id !== todo.id && !todo.completed
     );
     setTodo(clearCompleted);
   };
+  // Todo tamamlandı mı tamamlanmadı mı? ->
   const toggleTodoCompleted = (id) => {
     const updatedTodo = todo.map((todo) => {
       if (id === todo.id) {
@@ -33,10 +37,9 @@ const App = (props) => {
       return todo;
     });
     setTodo(updatedTodo);
-
-    console.log(todo[0]);
   };
 
+  //Girilmiş todo içeriğini değiştirme ->
   const editTodo = (id, newName) => {
     const editedTodoList = todo.map((todo) => {
       if (id === todo.id) {
@@ -47,6 +50,7 @@ const App = (props) => {
     setTodo(editedTodoList);
   };
 
+  //Filtreleme ->
   const [filter, setFilter] = useState("All");
 
   const FILTER_MAP = {
@@ -64,6 +68,7 @@ const App = (props) => {
       setFilter={setFilter}
     />
   ));
+  //Todoların geldiği yer ->
   const todoList = todo
     .filter(FILTER_MAP[filter])
     .map((todo) => (
@@ -77,7 +82,7 @@ const App = (props) => {
         editTodo={editTodo}
       />
     ));
-
+  // Todo sayısı 1'e eşit değilse "tasks" eşitse "task" yazdırma ->
   const todoNoun = todoList.length !== 1 ? "tasks" : "task";
   const headingText = `${todoList.length} ${todoNoun} left`;
 

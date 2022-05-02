@@ -18,7 +18,7 @@ const Todo = (props) => {
   const editingTemplate = (
     <form onSubmit={handleSubmit}>
       <div>
-        <label htmlFor={props.id}>New name for {props.name}</label>
+        <label htmlFor={props.id} className="edit"></label>
         <input
           id={props.id}
           type="text"
