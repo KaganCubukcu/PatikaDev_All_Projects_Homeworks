@@ -1,0 +1,15 @@
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\bin\Debug\net7.0\koleksiyonlar-2.exe
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\bin\Debug\net7.0\koleksiyonlar-2.deps.json
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\bin\Debug\net7.0\koleksiyonlar-2.runtimeconfig.json
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\bin\Debug\net7.0\koleksiyonlar-2.dll
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\bin\Debug\net7.0\koleksiyonlar-2.pdb
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.csproj.AssemblyReference.cache
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.AssemblyInfoInputs.cache
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.AssemblyInfo.cs
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.csproj.CoreCompileInputs.cache
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.dll
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\refint\koleksiyonlar-2.dll
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.pdb
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\koleksiyonlar-2.genruntimeconfig.cache
+C:\Users\Dilek Çakmak\Desktop\c-sharp\patika_odev_2\koleksiyonlar-2\obj\Debug\net7.0\ref\koleksiyonlar-2.dll
