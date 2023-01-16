@@ -1,0 +1,15 @@
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\bin\Debug\net7.0\PatikaHomework.exe
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\bin\Debug\net7.0\PatikaHomework.deps.json
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\bin\Debug\net7.0\PatikaHomework.runtimeconfig.json
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\bin\Debug\net7.0\PatikaHomework.dll
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\bin\Debug\net7.0\PatikaHomework.pdb
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.csproj.AssemblyReference.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.AssemblyInfoInputs.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.AssemblyInfo.cs
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.csproj.CoreCompileInputs.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.dll
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\refint\PatikaHomework.dll
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.pdb
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\PatikaHomework.genruntimeconfig.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaHomework\obj\Debug\net7.0\ref\PatikaHomework.dll
