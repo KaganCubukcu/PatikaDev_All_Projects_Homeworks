@@ -1,0 +1,15 @@
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\bin\Debug\net7.0\Phonebook.exe
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\bin\Debug\net7.0\Phonebook.deps.json
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\bin\Debug\net7.0\Phonebook.runtimeconfig.json
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\bin\Debug\net7.0\Phonebook.dll
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\bin\Debug\net7.0\Phonebook.pdb
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.csproj.AssemblyReference.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.AssemblyInfo.cs
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.dll
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\refint\Phonebook.dll
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.pdb
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\Phonebook.genruntimeconfig.cache
+C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\obj\Debug\net7.0\ref\Phonebook.dll

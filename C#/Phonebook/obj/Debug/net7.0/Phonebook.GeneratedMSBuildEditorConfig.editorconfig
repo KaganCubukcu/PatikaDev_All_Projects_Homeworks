@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = koleksiyonlar_3
-build_property.ProjectDir = c:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\C#\patika_odev_2\koleksiyonlar-3\
+build_property.RootNamespace = Phonebook
+build_property.ProjectDir = C:\Users\Dilek Çakmak\Desktop\PatikaDev_All_Projects_Homeworks\c#\Phonebook\
